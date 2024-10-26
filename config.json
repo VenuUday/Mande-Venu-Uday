@@ -1,0 +1,6 @@
+{
+    "api_key": "your_openweather_api_key",
+    "cities": ["Delhi", "Mumbai", "Chennai", "Bangalore", "Kolkata", "Hyderabad"],
+    "fetch_interval": 300,
+    "alert_threshold": 35
+}
